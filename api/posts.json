@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Large 4-room apartment with a beautiful terrace",
+    "image": "https://iztek-frontend-assignment.vercel.app/uploads/house.png",
+    "price": 320000,
+    "location": "Paris"
+  },
+  {
+    "title": "5i large design apartment with terrace",
+    "image": "https://iztek-frontend-assignment.vercel.app/uploads/house.png",
+    "price": 450000,
+    "location": "London"
+  },
+  {
+    "title": "Magnificent duplex in a private villa",
+    "image": "https://iztek-frontend-assignment.vercel.app/uploads/house.png",
+    "price": 550000,
+    "location": "New York"
+  },
+  {
+    "title": "Beautiful 3-room apartment with a view of the Eiffel Tower",
+    "image": "https://iztek-frontend-assignment.vercel.app/uploads/house.png",
+    "price": 280000,
+    "location": "Madrid"
+  },
+  {
+    "title": "5i large design apartment with terrace",
+    "image": "https://iztek-frontend-assignment.vercel.app/uploads/house.png",
+    "price": 220000,
+    "location": "Paris"
+  },
+  {
+    "title": "Beautiful 1-room apartment with a view of the Eiffel Tower",
+    "image": "https://iztek-frontend-assignment.vercel.app/uploads/house.png",
+    "price": 180000,
+    "location": "Madrid"
+  },
+  {
+    "title": "Beautiful 4-room apartment with a view of the Eiffel Tower",
+    "image": "https://iztek-frontend-assignment.vercel.app/uploads/house.png",
+    "price": 320000,
+    "location": "Istanbul"
+  },
+  {
+    "title": "Beautiful 5-room apartment with a view of the Eiffel Tower",
+    "image": "https://iztek-frontend-assignment.vercel.app/uploads/house.png",
+    "price": 400000,
+    "location": "Paris"
+  },
+  {
+    "title": "Beautiful 6-room apartment with a view of the Eiffel Tower",
+    "image": "https://iztek-frontend-assignment.vercel.app/uploads/house.png",
+    "price": 500000,
+    "location": "Istanbul"
+  },
+  {
+    "title": "Beautiful 7-room apartment with a view of the Eiffel Tower",
+    "image": "https://iztek-frontend-assignment.vercel.app/uploads/house.png",
+    "price": 600000,
+    "location": "London"
+  },
+  {
+    "title": "Beautiful 8-room apartment with a view of the Eiffel Tower",
+    "image": "https://iztek-frontend-assignment.vercel.app/uploads/house.png",
+    "price": 700000,
+    "location": "New York"
+  },
+  {
+    "title": "Beautiful 9-room apartment with a view of the Eiffel Tower",
+    "image": "https://iztek-frontend-assignment.vercel.app/uploads/house.png",
+    "price": 800000,
+    "location": "Madrid"
+  },
+  {
+    "title": "Beautiful 10-room apartment with a view of the Eiffel Tower",
+    "image": "https://iztek-frontend-assignment.vercel.app/uploads/house.png",
+    "price": 900000,
+    "location": "Paris"
+  },
+  {
+    "title": "Beautiful 11-room apartment with a view of the Eiffel Tower",
+    "image": "https://iztek-frontend-assignment.vercel.app/uploads/house.png",
+    "price": 1000000,
+    "location": "Madrid"
+  },
+  {
+    "title": "Beautiful 12-room apartment with a view of the Eiffel Tower",
+    "image": "https://iztek-frontend-assignment.vercel.app/uploads/house.png",
+    "price": 1100000,
+    "location": "Istanbul"
+  },
+  {
+    "title": "Beautiful 13-room apartment with a view of the Eiffel Tower",
+    "image": "https://iztek-frontend-assignment.vercel.app/uploads/house.png",
+    "price": 1200000,
+    "location": "Paris"
+  },
+  {
+    "title": "Beautiful 14-room apartment with a view of the Eiffel Tower",
+    "image": "https://iztek-frontend-assignment.vercel.app/uploads/house.png",
+    "price": 1300000,
+    "location": "Istanbul"
+  },
+  {
+    "title": "Beautiful 15-room apartment with a view of the Eiffel Tower",
+    "image": "https://iztek-frontend-assignment.vercel.app/uploads/house.png",
+    "price": 1400000,
+    "location": "London"
+  },
+  {
+    "title": "Beautiful 16-room apartment with a view of the Eiffel Tower",
+    "image": "https://iztek-frontend-assignment.vercel.app/uploads/house.png",
+    "price": 1500000,
+    "location": "New York"
+  },
+  {
+    "title": "Beautiful 17-room apartment with a view of the Eiffel Tower",
+    "image": "https://iztek-frontend-assignment.vercel.app/uploads/house.png",
+    "price": 1600000,
+    "location": "Madrid"
+  },
+  {
+    "title": "Beautiful 18-room apartment with a view of the Eiffel Tower",
+    "image": "https://iztek-frontend-assignment.vercel.app/uploads/house.png",
+    "price": 1700000,
+    "location": "Paris"
+  },
+  {
+    "title": "Beautiful 19-room apartment with a view of the Eiffel Tower",
+    "image": "https://iztek-frontend-assignment.vercel.app/uploads/house.png",
+    "price": 1800000,
+    "location": "Madrid"
+  },
+  {
+    "title": "Beautiful 20-room apartment with a view of the Eiffel Tower",
+    "image": "https://iztek-frontend-assignment.vercel.app/uploads/house.png",
+    "price": 1900000,
+    "location": "Istanbul"
+  }
+]

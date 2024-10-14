@@ -1,0 +1,22 @@
+[
+  {
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tristique in pellentesque ultrices et massa neque, convallis lorem. Erat proin in posuere dui accumsan lorem. Diam nunc scelerisque mi vestibulum scelerisque mi ac nisi. Dictumst nunc placerat ultricies pretium.",
+    "user_name": "Emerson Aminoff",
+    "user_location": "3 bedroom apartmentt in Madrid"
+  },
+  {
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tristique in pellentesque ultrices et massa neque, convallis lorem. Erat proin in posuere dui accumsan lorem. Diam nunc scelerisque mi vestibulum scelerisque mi ac nisi. Dictumst nunc placerat ultricies pretium.",
+    "user_name": "Jocelyn Stanton",
+    "user_location": "2 bedroom apartmentt in Barcelona"
+  },
+  {
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tristique in pellentesque ultrices et massa neque, convallis lorem. Erat proin in posuere dui accumsan lorem. Diam nunc scelerisque mi vestibulum scelerisque mi ac nisi. Dictumst nunc placerat ultricies pretium.",
+    "user_name": "John Doe",
+    "user_location": "1 bedroom apartmentt in Madrid"
+  },
+  {
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tristique in pellentesque ultrices et massa neque, convallis lorem. Erat proin in posuere dui accumsan lorem. Diam nunc scelerisque mi vestibulum scelerisque mi ac nisi. Dictumst nunc placerat ultricies pretium.",
+    "user_name": "Jane Doe",
+    "user_location": "3 bedroom apartmentt in Barcelona"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Maren Press",
+    "desc": "Super duper position",
+    "image": "https://iztek-frontend-assignment.vercel.app/uploads/team/maren-press.png"
+  },
+  {
+    "name": "Davis Carder",
+    "desc": "Super duper position",
+    "image": "https://iztek-frontend-assignment.vercel.app/uploads/team/davis-carder.png"
+  },
+  {
+    "name": "Randy Rosser",
+    "desc": "Super duper position",
+    "image": "https://iztek-frontend-assignment.vercel.app/uploads/team/randy-rosser.png"
+  },
+  {
+    "name": "Haylie Donin",
+    "desc": "Super duper position",
+    "image": "https://iztek-frontend-assignment.vercel.app/uploads/team/haylie-donin.png"
+  },
+  {
+    "name": "Miracle Bator",
+    "desc": "Super duper position",
+    "image": "https://iztek-frontend-assignment.vercel.app/uploads/team/miracle-bator.png"
+  }
+]
